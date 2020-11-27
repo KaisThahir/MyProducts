@@ -1,0 +1,97 @@
+D:\MadaTec\MadaTec\MadaTec\bin\Release\MadaTec.exe.config
+D:\MadaTec\MadaTec\MadaTec\bin\Release\MadaTec.exe
+D:\MadaTec\MadaTec\MadaTec\bin\Release\MadaTec.pdb
+D:\MadaTec\MadaTec\MadaTec\bin\Release\MySql.Data.Entity.EF6.dll
+D:\MadaTec\MadaTec\MadaTec\obj\Release\Interop.ADODB.dll
+D:\MadaTec\MadaTec\MadaTec\obj\Release\Interop.MSAdodcLib.dll
+D:\MadaTec\MadaTec\MadaTec\obj\Release\Interop.MSChart20Lib.dll
+D:\MadaTec\MadaTec\MadaTec\obj\Release\Interop.MSDataGridLib.dll
+D:\MadaTec\MadaTec\MadaTec\obj\Release\Interop.MSDataListLib.dll
+D:\MadaTec\MadaTec\MadaTec\obj\Release\Interop.MSDataRepeaterLib.dll
+D:\MadaTec\MadaTec\MadaTec\obj\Release\Interop.MSDATASRC.dll
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.csproj.ResolveComReference.cache
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.AddEditNewElement.resources
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.CelList.resources
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.Customers.resources
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.Items.resources
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.shops.resources
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.Elements.resources
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.Form1.resources
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.Main.resources
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.Properties.Resources.resources
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.csproj.GenerateResource.cache
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.exe
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.pdb
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.searchedBayList.resources
+D:\MadaTec\MadaTec\MadaTec\bin\Release\MySql.Fabric.Plugin.dll
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.calculatoins.resources
+D:\MadaTec\MadaTec\MadaTec\bin\Release\MySqlBackup.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\MadaTec.exe.config
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\MadaTec.exe
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\MadaTec.pdb
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\MySql.Data.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\MySql.Data.Entity.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\MySql.Data.Entity.EF6.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\MySql.Fabric.Plugin.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\MySql.Web.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\MySqlBackup.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\WebMatrix.WebData.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\System.Web.WebPages.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\WebMatrix.Data.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\System.Web.WebPages.Razor.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\System.Web.Helpers.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\System.Web.Razor.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\System.Web.WebPages.Deployment.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\WebMatrix.WebData.xml
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\System.Web.WebPages.xml
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\WebMatrix.Data.xml
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\System.Web.WebPages.Razor.xml
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\System.Web.Helpers.xml
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\Microsoft.Web.Infrastructure.xml
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\System.Web.Razor.xml
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\System.Web.WebPages.Deployment.xml
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.csprojAssemblyReference.cache
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.exe.config
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\Interop.ADODB.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\Interop.MSAdodcLib.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\Interop.MSChart20Lib.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\Interop.MSDataGridLib.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\Interop.MSDataListLib.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\Interop.MSDataRepeaterLib.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\Interop.MSDATASRC.dll
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.csproj.ResolveComReference.cache
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.AddEditNewElement.resources
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.calculatoins.resources
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.CelList.resources
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.Customers.resources
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.Items.resources
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.Elements.resources
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.Form1.resources
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.Main.resources
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.Properties.Resources.resources
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.searchedBayList.resources
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.shops.resources
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.csproj.GenerateResource.cache
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.csproj.CoreCompileInputs.cache
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.csproj.CopyComplete
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.exe
+D:\MadaTec\copy of Mada Tec\MadaTec\MadaTec\obj\Release\MadaTec.pdb
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.CustomerReportForm.resources
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.Reporting.resources
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.SalesReportForm.resources
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.costReportForm.resources
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.csprojResolveAssemblyReference.cache
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.bayElementReportForm.resources
+D:\MadaTec\MadaTec\MadaTec\obj\Release\MadaTec.GeneralReportForm.resources
